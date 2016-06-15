@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+    <string name="cold">감기</string>
+    <string name="head">두통</string>
+    <string name="bae">복통</string>
+    <string name="sang">생리통</string>
+    <string name="pic">사진</string>
+    <string name="main">메인 화면</string>
+</resources>
